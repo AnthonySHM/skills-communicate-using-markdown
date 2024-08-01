@@ -14,3 +14,7 @@ just messing around
 		m.y = event.clientY;
 	}
 ```
+- [x] Learn Svelte
+- [x] Make a product view page
+- [ ] learn git hub
+- [ ] Create a buisness
